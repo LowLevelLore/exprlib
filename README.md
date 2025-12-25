@@ -22,7 +22,7 @@ This README shows installation, build, API usage, examples and maintenance notes
 
 ## Installation
 
-Add the exprlib.h and exprlib.c in your C or C++ project's build system and compile along.
+Add the [exprlib.h](https://github.com/LowLevelLore/exprlib/blob/main/include/exprlib.h) and [exprlib.c](https://github.com/LowLevelLore/exprlib/blob/main/src/exprlib.c) in your C or C++ project's build system and compile along.
 
 ## Quickstart — API & Usage
 

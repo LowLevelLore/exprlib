@@ -1,3 +1,9 @@
+// SPDX-License-Identifier: MIT
+/*
+ * ExprLib — Expression parsing and evaluation library
+ * Copyright (c) 2025 LowLevelLore (https://github.com/LowLevelLore)
+ */
+
 #ifndef __EXPRLIB_H
 #define __EXPRLIB_H
 
